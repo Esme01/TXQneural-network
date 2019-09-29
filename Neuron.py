@@ -78,3 +78,14 @@ print(net.num_layers)
 print("net.weights:")
 print(net.weights)
 
+b = [2*e for e in a if e > 2]
+print(b)
+
+code = [1, 2, 3, 4]
+name = ['zhang', 'chen', 'liu']
+d={}
+for c,n in zip(code, name):
+    d[c] = n
+print(d)
+
+

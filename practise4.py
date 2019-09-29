@@ -6,6 +6,7 @@ def sigmoid(z):
     return 1/(1+pow(math.e, -z))
 
 
+class Network():
     def __init__(self, sizes):
         self.sizes = sizes
         w_list = []
