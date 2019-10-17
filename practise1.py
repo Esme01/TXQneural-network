@@ -10,6 +10,7 @@ class Network():
     def __init__(self):
         self.weight = 1
         self.biase = 2
+    # 类的初始化
 
     def y(self, x):
         return sigmoid(self.weight*x+self.biase)
