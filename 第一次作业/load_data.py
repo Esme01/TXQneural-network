@@ -9,6 +9,13 @@ training_data = list(training_data)
 test_data = list(test_data)
 print(len(training_data))
 print(len(test_data))
-digit = training_data[1][0].reshape(28, 28)
-plt.imshow(digit, cmap=plt.cm)
-plt.show()
+
+for i in range(5):
+    print("第", i+1, "个样本标签")
+    digit = training_data[i][0].reshape(28, 28)
+    # [1][0]是什么意思？第二个图形的第一项（样本）
+    print(training_data[i][1])
+    # 打印标签
+    plt.imshow(digit, cmap=plt.cm.binary)
+    plt.show()
+    # print(training_data[0])

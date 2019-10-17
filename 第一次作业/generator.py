@@ -7,3 +7,4 @@ def generator(n):
 for i in generator(10):
     print(i)
 
+# 不保存数据，在内存中只占一格
