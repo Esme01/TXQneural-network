@@ -2,12 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c875ab46-259d-412c-abcd-3fb9ef1176f5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一次作业/.ipynb_checkpoints/32017070108 唐小淇-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一次作业/32017070108 唐小淇.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一次作业/untitled.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/TXQneural-network.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/TXQneural-network.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MNIST.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/第一次作业/generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/第一次作业/generator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/第一次作业/load_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/第一次作业/load_data.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/第一次作业/第一次作业题目.txt" beforeDir="false" afterPath="$PROJECT_DIR$/第一次作业/第一次作业题目.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network1.py" beforeDir="false" afterPath="$PROJECT_DIR$/network1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第一次作业/three layers of network.py" beforeDir="false" afterPath="$PROJECT_DIR$/第一次作业/three layers of network.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,7 +38,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/第一次作业" />
+    <property name="last_opened_file_path" value="D:/Junior/人工神经网络/作业CNN" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -53,7 +58,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.load_data (1)">
+  <component name="RunManager" selected="Python.three layers of network">
     <configuration name="MNST_load" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="第一次作业" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -117,19 +122,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="mnist_svm" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="码云-1" />
+    <configuration name="network1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TXQneural-network" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="D:/Junior/人工神经网络/码云-1/DeepLearningPython35-master" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:/Junior/人工神经网络/码云-1/DeepLearningPython35-master/mnist_svm.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/network1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -138,19 +143,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="start" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="北大mooc(人工智能)" />
+    <configuration name="three layers of network" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="第一次作业" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="D:/Junior/人工神经网络/北大mooc(人工智能)/Artificial-intelligence-mooc" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第一次作业" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:/Junior/人工神经网络/北大mooc(人工智能)/Artificial-intelligence-mooc/start.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第一次作业/three layers of network.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -161,11 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.three layers of network" />
+        <item itemvalue="Python.network1" />
         <item itemvalue="Python.load_data (1)" />
         <item itemvalue="Python.load_data" />
         <item itemvalue="Python.MNST_load" />
-        <item itemvalue="Python.mnist_svm" />
-        <item itemvalue="Python.start" />
       </list>
     </recent_temporary>
   </component>
@@ -194,7 +199,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571311536552</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="first work">
+      <created>1571313745306</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1571313745306</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

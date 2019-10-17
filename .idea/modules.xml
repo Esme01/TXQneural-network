@@ -4,8 +4,10 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/TXQneural-network.iml" filepath="$PROJECT_DIR$/.idea/TXQneural-network.iml" />
       <module fileurl="file://$PROJECT_DIR$/../../../教学代码/zjpytorch-master/.idea/zjpytorch-master.iml" filepath="$PROJECT_DIR$/../../../教学代码/zjpytorch-master/.idea/zjpytorch-master.iml" />
+      <module fileurl="file://D:/Junior/人工神经网络/作业CNN/.idea/作业CNN.iml" filepath="D:/Junior/人工神经网络/作业CNN/.idea/作业CNN.iml" />
       <module fileurl="file://D:/Junior/人工神经网络/北大mooc(人工智能)/.idea/北大mooc(人工智能).iml" filepath="D:/Junior/人工神经网络/北大mooc(人工智能)/.idea/北大mooc(人工智能).iml" />
       <module fileurl="file://D:/Junior/人工神经网络/码云-1/.idea/码云-1.iml" filepath="D:/Junior/人工神经网络/码云-1/.idea/码云-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/第一次作业/.idea/第一次作业.iml" filepath="$PROJECT_DIR$/第一次作业/.idea/第一次作业.iml" />
     </modules>
   </component>
 </project>

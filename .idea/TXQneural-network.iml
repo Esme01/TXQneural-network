@@ -7,6 +7,8 @@
     <orderEntry type="module" module-name="北大mooc(人工智能)" />
     <orderEntry type="module" module-name="码云-1" />
     <orderEntry type="module" module-name="zjpytorch-master" />
+    <orderEntry type="module" module-name="第一次作业" />
+    <orderEntry type="module" module-name="作业CNN" />
   </component>
   <component name="TestRunnerService">
     <option name="projectConfiguration" value="pytest" />

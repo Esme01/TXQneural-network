@@ -16,10 +16,11 @@ and omits many desirable features.
 #### Libraries
 # Standard library
 import random
+import MNST_load
 
 # Third-party libraries
 import numpy as np
-
+training_data, validation_data, test_data = MNST_load.load_data_wrapper()
 
 class Network(object):
 
@@ -160,3 +161,7 @@ def sigmoid(z):
 def sigmoid_prime(z):
     """Derivative of the sigmoid function."""
     return sigmoid(z) * (1 - sigmoid(z))
+
+
+net = Network([784, 30, 10])
+net.SGD(training_data, 30, 10, 3.0, test_data=test_data)
