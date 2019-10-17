@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c875ab46-259d-412c-abcd-3fb9ef1176f5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/第一次作业/untitled.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/TXQneural-network.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/TXQneural-network.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network1.py" beforeDir="false" afterPath="$PROJECT_DIR$/network1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/第一次作业/three layers of network.py" beforeDir="false" afterPath="$PROJECT_DIR$/第一次作业/three layers of network.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第一次作业/32017070108 唐小淇/作业代码演示.ipynb" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
