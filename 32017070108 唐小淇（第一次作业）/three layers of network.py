@@ -16,21 +16,24 @@ class Network(object):
         layer is assumed to be an input layer, and by convention we
         won't set any biases for those neurons, since biases are only
         ever used in computing the outputs from later layers."""
-        self.num_layers = len(sizes)
-        self.sizes = sizes
+        self.num_layers = len(sizes)  # 标量
+        self.sizes = sizes  # 列表
         self.biases = [np.random.randn(y, 1) for y in sizes[1:]]
         self.weights = [np.random.randn(y, x)
                         for x, y in zip(sizes[:-1], sizes[1:])]
+        # 每一行是一层神经元
 
-    def feedforward(self, a):
+    def feedforward(self, a):   # 前向传播
         """Return the output of the network if ``a`` is input."""
         for b, w in zip(self.biases, self.weights):
-            a = sigmoid(np.dot(w, a) + b)
+            a = sigmoid(np.dot(w, a) + b)  # 得到激活值
         return a
     # a是迭代的，
 
     def SGD(self, training_data, epochs, mini_batch_size, eta,
             test_data=None):
+        # 随机梯度下降
+        # test_data=None 匿名函数，可以为空
         """Train the neural network using mini-batch stochastic
         gradient descent.  The ``training_data`` is a list of tuples
         ``(x, y)`` representing the training inputs and the desired
@@ -128,6 +131,7 @@ class Network(object):
         return sum(int(x == y) for (x, y) in training_results)
 
     def cost_derivative(self, output_activations, y):
+        # 单个成本函数的导数
         """Return the vector of partial derivatives \partial C_x /
         \partial a for the output activations."""
         return (output_activations - y)

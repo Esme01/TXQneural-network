@@ -15,6 +15,10 @@ for i in range(5):
     digit = training_data[i][0].reshape(28, 28)
     # [1][0]是什么意思？第二个图形的第一项（样本）
     print(training_data[i][1])
+    print(np.argmax(training_data[i][1]))
+    # np.argmax()输出这一行最大值的下标
+
+
     # 打印标签
     plt.imshow(digit, cmap=plt.cm.binary)
     plt.show()

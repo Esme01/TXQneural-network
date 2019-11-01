@@ -1,7 +1,184 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="69b8e2f4-42d3-41af-a939-c0f2d8efe56e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="D:/Junior/人工神经网络/第二次作业/32017070108唐小淇/.gitignore" afterDir="false" />
+      <change afterPath="D:/Junior/人工神经网络/第二次作业/32017070108唐小淇/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="D:/Junior/人工神经网络/第二次作业/32017070108唐小淇/.idea/misc.xml" afterDir="false" />
+      <change afterPath="D:/Junior/人工神经网络/第二次作业/32017070108唐小淇/.idea/modules.xml" afterDir="false" />
+      <change afterPath="D:/Junior/人工神经网络/第二次作业/32017070108唐小淇/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="D:/Junior/人工神经网络/第二次作业/32017070108唐小淇/.idea/第二次作业.iml" afterDir="false" />
+      <change afterPath="D:/Junior/人工神经网络/第二次作业/32017070108唐小淇/32017070108唐小淇.ipynb" afterDir="false" />
+      <change afterPath="D:/Junior/人工神经网络/第二次作业/32017070108唐小淇/MNST_load.py" afterDir="false" />
+      <change afterPath="D:/Junior/人工神经网络/第二次作业/32017070108唐小淇/README.en.md" afterDir="false" />
+      <change afterPath="D:/Junior/人工神经网络/第二次作业/32017070108唐小淇/README.md" afterDir="false" />
+      <change afterPath="D:/Junior/人工神经网络/第二次作业/32017070108唐小淇/load_data.py" afterDir="false" />
+      <change afterPath="D:/Junior/人工神经网络/第二次作业/32017070108唐小淇/mnist.pkl.gz" afterDir="false" />
+      <change afterPath="D:/Junior/人工神经网络/第二次作业/32017070108唐小淇/network-debug.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/第一次作业.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/第一次作业.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/load_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/load_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three layers of network.py" beforeDir="false" afterPath="$PROJECT_DIR$/three layers of network.py" afterDir="false" />
+      <change beforePath="D:/Junior/人工神经网络/第二次作业/.gitignore" beforeDir="false" />
+      <change beforePath="D:/Junior/人工神经网络/第二次作业/.idea/workspace.xml" beforeDir="false" afterPath="D:/Junior/人工神经网络/第二次作业/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="D:/Junior/人工神经网络/第二次作业/32017070108唐小淇.ipynb" beforeDir="false" />
+      <change beforePath="D:/Junior/人工神经网络/第二次作业/MNST_load.py" beforeDir="false" />
+      <change beforePath="D:/Junior/人工神经网络/第二次作业/README.en.md" beforeDir="false" />
+      <change beforePath="D:/Junior/人工神经网络/第二次作业/README.md" beforeDir="false" />
+      <change beforePath="D:/Junior/人工神经网络/第二次作业/load_data.py" beforeDir="false" />
+      <change beforePath="D:/Junior/人工神经网络/第二次作业/mnist.pkl.gz" beforeDir="false" />
+      <change beforePath="D:/Junior/人工神经网络/第二次作业/network-debug.py" beforeDir="false" />
+      <change beforePath="D:/Junior/人工神经网络/第二次作业/the-second-work.ipynb" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1SKa2Vh9D64JXAQXmWPGMXT4XH6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="D:/Junior/人工神经网络/第二次作业" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.tabs" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Junior\人工神经网络\第二次作业" />
+      <recent name="D:\Junior\人工神经网络\第二次作业\.ipynb_checkpoints" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.network-debug">
+    <configuration name="load_data" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="第一次作业" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/load_data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="network-debug" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="第二次作业" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="D:/Junior/人工神经网络/第二次作业" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:/Junior/人工神经网络/第二次作业/network-debug.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="three layers of network" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="第一次作业" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/three layers of network.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.network-debug" />
+        <item itemvalue="Python.three layers of network" />
+        <item itemvalue="Python.load_data" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="69b8e2f4-42d3-41af-a939-c0f2d8efe56e" name="Default Changelist" comment="" />
+      <created>1571366831716</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571366831716</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.md" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

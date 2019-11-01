@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../.idea/TXQneural-network.iml" filepath="$PROJECT_DIR$/../.idea/TXQneural-network.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/第一次作业.iml" filepath="$PROJECT_DIR$/.idea/第一次作业.iml" />
+      <module fileurl="file://D:/Junior/人工神经网络/第二次作业/.idea/第二次作业.iml" filepath="D:/Junior/人工神经网络/第二次作业/.idea/第二次作业.iml" />
     </modules>
   </component>
 </project>
